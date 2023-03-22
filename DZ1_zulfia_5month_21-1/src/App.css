@@ -1,0 +1,11 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+.link.active {
+    color:red
+}
+.link {
+    text-decoration: none;
+    color: black;
+}
